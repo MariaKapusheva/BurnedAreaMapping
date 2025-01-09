@@ -9,7 +9,7 @@ Ground truth data for burn scar baseline:
 Predicted outputs by burn scar baseline
  - https://www.kaggle.com/datasets/priyanjaliml/evaluated-mask-burn-seg
 
-Prithvi dataset created from burn intensity - post.zip(huggingface)
+Burn intensity dataset created from burn intensity - post.zip(huggingface) with hierarchy of train, test, validation
  - https://www.kaggle.com/datasets/priyanjaliml/burn-data-seg
 
  
