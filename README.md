@@ -1,5 +1,7 @@
 # BurnedAreaMapping
-Burned area mapping using Prithvi
+
+Burn intensity dataset - post.zip 
+ - https://huggingface.co/datasets/ibm-nasa-geospatial/burn_intensity
 
 Ground truth data for burn scar baseline:
  - https://www.kaggle.com/datasets/priyanjaliml/ground-truth-mask-burn-seg
